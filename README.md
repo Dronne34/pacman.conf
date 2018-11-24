@@ -1,0 +1,1 @@
+#original file pacman.conf
