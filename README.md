@@ -1,1 +1,1 @@
-#original file pacman.conf
+original file pacman.conf
